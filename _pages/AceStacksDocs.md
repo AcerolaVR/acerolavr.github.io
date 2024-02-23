@@ -3,7 +3,7 @@ permalink: /Docs/Acestacks
 title: "AceStacks Documentation"
 excerpt: "Usage Guide for AceStacks v1.x Trackers"
 layout: single
-classes: wide
+# classes: wide
 last_modified_at: 2024-02-11T11:59:26-04:00
 author_profile: true
 toc: true
