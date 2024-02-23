@@ -31,7 +31,9 @@ This is a setup and usage guide for AceStacks v1.x Trackers. You can find the pu
 1. Follow the USB Connection Tolerances section if you’re having trouble connecting the trackers to your computer
 2. Take note of the [Battery Safety Tips](#battery-safety) to prevent damage to the tracker
 3. Take note of the [Mounting information](#mounting)
-4. Refer to [Spazznyans SlimeVR infographics](https://imgur.com/a/0jSuwrz) for mounting, calibration, and VRC tips
+4. Refer to either/both of these resources for calibration and mounting tips
+   - [ZRock35's Calibration Video](https://www.youtube.com/watch?v=SYqfQdVseF4)
+   - [Spazznyans SlimeVR infographics](https://imgur.com/a/0jSuwrz)
 5.  SlimeVR hosts official Calibrate and Chat events every Friday @ 7PM EST, which is the best place to get a good calibration done and meet fellow SlimeVR users. 
 
 ## Acestacks v1 Extra Steps
