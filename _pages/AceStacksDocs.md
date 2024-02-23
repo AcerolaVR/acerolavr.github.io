@@ -23,7 +23,7 @@ This is a setup and usage guide for AceStacks v1.x Trackers. You can find the pu
    - [Quick Setup Text Guide](https://docs.slimevr.dev/quick-setup.html)
    - [Detailed Setup Text Guide](https://docs.slimevr.dev/server/index.html)
 1. Follow the Official SlimeVR Setup Guide, but do note that there are differences with this design
-   1. Video Setup Guide: SlimeVR Set Up Guide (Part 2): Setting Up!
+   1. [Video Setup Guide: SlimeVR Set Up Guide (Part 2): Setting Up!](https://www.youtube.com/watch?v=JrHmNcckpuE)
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JrHmNcckpuE?si=ofR9sMih33G13Hap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
    - The data cable for connecting the trackers to your server is the TOP MICRO USB port, the bottom USB C port is only for charging. use the top Micro USB for port this step.
    - If you have Acestacks V1, refer to [these extra safety steps](#acestacks-v1-extra-steps)
