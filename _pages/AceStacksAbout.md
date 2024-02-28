@@ -9,6 +9,8 @@ last_modified_at: 2024-02-28T11:59:26-04:00
 # toc: true
 ---
 <span style="color:green">**Current Lead Times: In Stock! Allow 1 week for assembly, calibration, and testing.**</span>
+<!-- <span style="color:yellow">**Current Lead Times: Parts on order, Allow 1-2 weeks for restock + assembly.**</span> -->
+<!-- <span style="color:red">**Current Lead Times: Out of Stock! Allow at least 2-3 weeks for restocking.**</span> -->
 
 
 Acestacks is an IMU-based, full body tracker design compatible with SlimeVR, an open-source VR Full Body Tracking solution. SlimeVR trackers work without using expensive lighthouses or base stations, and are compatible with any SteamVR enabled headset.
@@ -20,14 +22,14 @@ For more information about SlimeVR, and information on how to set up the softwar
 - 6 + 2 Set: Enhanced Set, Same as Above w/ Feet Trackers for Foot Rotation
 - 8 + 0 Set: Enhanced+ Set, Full Trackers instead of Extensions, Which Can be Used for Both Feet or Elbows
 - 8 + 2 Set: Dance Set, Same as Enhanced w/ Elbow Tracking
-- 
+
 #### Tracker Specifications
 - Compatible with SteamVR, VMC Protocol, and OSC for Tracking
 - 100Hz Update Rate, Low Latency Tracking
 - Uses Wi-Fi for Connectivity
 - Upgradable with Newer SlimeVR Software and Firmware
 - 47x57mm, 53g per tracker
-- 
+
 #### Technical Specifications
 - BMI160 Inertial Measurement Units (IMUs)
 - IMUs come pre-calibrated (gyro, accel, and temp cal)
