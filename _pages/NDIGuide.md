@@ -18,7 +18,6 @@ This guide will go over full-motion vtuber model sharing for collaborations usin
 
 # Quickstart Guide
 If you are just interested in setting up NDI Bridge for model sharing, follow these steps.
-
 ### Setup
 1. Download NDI Core
    - [Go here and Click on “For Windows”](https://ndi.video/tools/ndi-core-suite/)
@@ -36,7 +35,6 @@ If you are just interested in setting up NDI Bridge for model sharing, follow th
 5. Check to see that your model is sharing using OBS
    - Add a new source to your OBS Scene, NDI Source
    - In the dropdown, you should see your model being shared
-
 ### Using NDI Bridge
 1. Joining an NDI Bridge
    - Open NDI Bridge, go to the Join Tab
