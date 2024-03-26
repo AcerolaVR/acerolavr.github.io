@@ -45,7 +45,7 @@ If you are just interested in setting up NDI Bridge for model sharing, follow th
    - Open NDI Bridge, go to the Host Tab
    - Start hosting
 Copy and send your IP, port, and encryption key to collaborators
-3. [NDI Settings]
+3. [NDI Settings](#encoding-settings)
 8. When all collaborators are connected, you should see new NDI Sources for their models/whatever they are sharing over NDI
 
 ## Detailed Guide
