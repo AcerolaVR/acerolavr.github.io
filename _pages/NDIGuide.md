@@ -3,11 +3,11 @@ permalink: /Guides/NDI
 title: "NDI Model Sharing"
 excerpt: "Guide on using NDI and NDI bridge to share models and other source "
 layout: single
-classes: wide
+# classes: wide
 last_modified_at: 2024-03-25T11:59:26-04:00
 author_profile: false
 toc: true
-toc_sticky: true
+# toc_sticky: true
 ---
 
 This guide will go over full-motion vtuber model sharing for collaborations using NDI Bridge.
@@ -50,8 +50,7 @@ Copy and send your IP, port, and encryption key to collaborators
 3. [NDI Settings]
 8. When all collaborators are connected, you should see new NDI Sources for their models/whatever they are sharing over NDI
 
-# Detailed Guide
-
+## Detailed Guide
 ### What is NDI?
 TL;DR - Free software/protocol used to transmit audio/video (AV) over network.
 
