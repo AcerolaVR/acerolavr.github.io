@@ -41,7 +41,7 @@ If you are just interested in setting up NDI Bridge for model sharing, follow th
    - Have the host send you the IP address, port, and encryption key
    - Paste the information into their respective places, do not copy the "field"=, just the value, and join
 2. Hosting an NDI Bridge
-   - [Port Forward the NDI Bridge Port (default: 5990)] 
+   - [Port Forward the NDI Bridge Port (default: 5990)](#port-forwarding)
    - Open NDI Bridge, go to the Host Tab
    - Start hosting
 Copy and send your IP, port, and encryption key to collaborators
