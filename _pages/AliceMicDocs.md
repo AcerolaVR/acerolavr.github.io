@@ -1,5 +1,5 @@
 ---
-permalink: /Docs/Mics
+permalink: /docs/mics
 title: "Alice Mics Usage"
 excerpt: "Usage guide for OPA Alice Microphones and general XLR Microphones"
 layout: single

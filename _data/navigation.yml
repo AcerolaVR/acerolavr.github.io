@@ -5,10 +5,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
   - title: "Shop"
     url: https://ko-fi.com/acerola/shop
   - title: "Docs"
-    url: /Docs/
+    url: /docs/
   - title: "Guides"
-    url: /Guides/
+    url: /guides/

@@ -1,5 +1,5 @@
 ---
-permalink: /Docs/Acestacks
+permalink: /docs/acestacks
 title: "AceStacks Documentation"
 excerpt: "Usage Guide for AceStacks v1.x Trackers"
 layout: single

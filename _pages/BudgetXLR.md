@@ -1,5 +1,5 @@
 ---
-permalink: /Docs/Mics
+permalink: /docs/mics
 title: "Alice Mics Documentation"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layout: single

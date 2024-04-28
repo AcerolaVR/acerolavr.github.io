@@ -1,5 +1,5 @@
 ---
-permalink: /Projects/Acestacks
+permalink: /projects/acestacks
 title: "AceStacks Info"
 excerpt: "Information about AceStacks, a custom SlimeVR tracker design."
 author_profile: true
@@ -8,10 +8,11 @@ classes: wide
 last_modified_at: 2024-02-28T11:59:26-04:00
 # toc: true
 ---
-<span style="color:green">**Current Lead Times: In Stock! Allow 1 week for assembly, calibration, and testing.**</span>
+<!-- <span style="color:green">**Current Lead Times: In Stock! Allow 1 week for assembly, calibration, and testing.**</span> -->
 <!-- <span style="color:yellow">**Current Lead Times: Parts on order, Allow 1-2 weeks for restock + assembly.**</span> -->
 <!-- <span style="color:red">**Current Lead Times: Out of Stock! Allow at least 2-3 weeks for restocking.**</span> -->
 <!-- <span style="color:red">**Current Lead Times: Out of Stock! Restock is normally 2-3 weeks but batteries are out of stock EVERYWHERE, Lead time are uncertain.**</span> -->
+<span style="color:red">**AceStacks v1 is Out of Stock; v2 is an improved version nearing completion that will be released around the same price.**</span>
 
 Acestacks is an IMU-based, full body tracker design compatible with SlimeVR, an open-source VR Full Body Tracking solution. SlimeVR trackers work without using expensive lighthouses or base stations, and are compatible with any SteamVR enabled headset.
 
