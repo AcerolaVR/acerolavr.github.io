@@ -13,6 +13,8 @@ This is a setup and usage guide for AceStacks v1.x Trackers. You can find the pu
 
 [Buy Acestacks Now](https://ko-fi.com/s/f68f3c7944){: .btn .btn--success .btn--large}
 
+**This section will need minor updates for Acestacks v2! The quickstart should still work fine. Message me @ "acerola." on Discord if you need any assistance.**
+
 # Quickstart Guide
 1. Watch the [AceStacks Video Overview](https://youtu.be/jQLkWUqJBMk) to familiarize yourself with the tracker design
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jQLkWUqJBMk?si=a3TqpI3CbrxZEM_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->

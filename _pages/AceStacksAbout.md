@@ -13,7 +13,7 @@ last_modified_at: 2024-02-28T11:59:26-04:00
 <!-- <span style="color:red">**Current Lead Times: Out of Stock! Allow at least 2-3 weeks for restocking.**</span> -->
 <!-- <span style="color:red">**Current Lead Times: Out of Stock! Restock is normally 2-3 weeks but batteries are out of stock EVERYWHERE, Lead time are uncertain.**</span> -->
 
-<span style="color:green">**ACESTACKS V2 IS IN STOCK! Turnaround is quick and I should be able to send trackers in quick order**</span>
+<span style="color:green">**ACESTACKS V2 IS IN STOCK! Turnaround is quick and I should be able to send trackers in short order**</span>
 
 [Buy Acestacks Now](https://ko-fi.com/s/f68f3c7944){: .btn .btn--success .btn--large}
 
