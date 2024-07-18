@@ -31,7 +31,7 @@ For more information about SlimeVR, and information on how to set up the softwar
 - Case Improvements
 - Included 4 in 1 USB C Charging Cable
 
-#### Tracker Bundles (Main + Aux Count)
+#### Tracker Bundles
 
 | **Set** | **Main + Ext** | **Description**                                                                  |
 |---------|----------------|---------------------------------------------------------------------------------|

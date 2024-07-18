@@ -8,14 +8,14 @@ feature_row:
   - image_path: /assets/images/AceStacks/PXL_20240717_204242217.MV~2.jpg
     alt: "Acestacks"
     title: "Acestacks"
-    excerpt: "Learn more about me and my content!"
+    excerpt: "Acestacks Project Info"
     url: "/projects/acestacks"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Microphone1.jpeg
     alt: "Microphones"
     title: "Projects"
-    excerpt: "Learn more about my projects hardware projects!"
+    excerpt: "Alice Microphone Project Info"
     url: "/projects/mics"
     btn_label: "Read More"
     btn_class: "btn--primary"
