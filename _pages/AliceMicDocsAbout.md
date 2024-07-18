@@ -1,5 +1,5 @@
 ---
-permalink: /Projects/Mics
+permalink: /projects/mics
 title: "Microphone About Page"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layout: single

@@ -5,7 +5,7 @@ excerpt: "Information about AceStacks, a custom SlimeVR tracker design."
 author_profile: true
 layout: single
 classes: wide
-last_modified_at: 2024-02-28T11:59:26-04:00
+last_modified_at: 2024-07-18T11:59:26-04:00
 # toc: true
 ---
 <!-- <span style="color:green">**Current Lead Times: In Stock! Allow 1 week for assembly, calibration, and testing.**</span> -->
@@ -13,11 +13,11 @@ last_modified_at: 2024-02-28T11:59:26-04:00
 <!-- <span style="color:red">**Current Lead Times: Out of Stock! Allow at least 2-3 weeks for restocking.**</span> -->
 <!-- <span style="color:red">**Current Lead Times: Out of Stock! Restock is normally 2-3 weeks but batteries are out of stock EVERYWHERE, Lead time are uncertain.**</span> -->
 
-<span style="color:green">**ACESTACKS V2 IS IN STOCK! Turnaround is quick and I should be able to send trackers in short order**</span>
+<span style="color:green">**ACESTACKS V2 IS IN STOCK! Turnaround is quick (1 week to ship out) and I should be able to send trackers in short order**</span>
 
 [Buy Acestacks Now](https://ko-fi.com/s/f68f3c7944){: .btn .btn--success .btn--large}
 
-![v2 Trackers]({{ site.url }}{{ site.baseurl }}/assets/images/AceStacks/V2.jpg){: .align-left}
+![v2 Trackers]({{ site.url }}{{ site.baseurl }}/assets/images/AceStacks/PXL_20240717_204242217.MV~2.jpg){: .align-left}
 Acestacks is an IMU-based, full body tracker design compatible with SlimeVR, an open-source VR Full Body Tracking solution. SlimeVR trackers work without using expensive lighthouses or base stations, and are compatible with any SteamVR enabled headset.
 
 For more information about SlimeVR, and information on how to set up the software and hardware for SlimeVR, [visit the official documentation for SlimeVR](https://docs.slimevr.dev/)  
@@ -31,14 +31,15 @@ For more information about SlimeVR, and information on how to set up the softwar
 - Case Improvements
 - Included 4 in 1 USB C Charging Cable
 
-
-
 #### Tracker Bundles (Main + Aux Count)
-- **5 + 0 Set:** Lite Set, Leg Tracking, can be paired with phone or JoyCon for extra tracking points
-- **6 + 0 Set:** Core Set, Spine and Leg Tracking, the sweet spot!
-- **6 + 2 Set:** Enhanced Set, Same as Above w/ Feet Trackers for Foot Rotation
-- **8 + 0 Set:** Enhanced+ Set, Full Trackers instead of Extensions, Which Can be Used for Either Feet or Elbows
-- **8 + 2 Set:** Dance Set, Same as Enhanced w/ Elbow Tracking
+
+| **Set** | **Main + Ext** | **Description**                                                                  |
+|---------|----------------|---------------------------------------------------------------------------------|
+| Lite     | 5 + 0          | Leg Tracking, can be paired with phone or JoyCon for extra tracking points       |
+| Core     | 6 + 0          | Spine and Leg Tracking, the sweet spot!                                          |
+| Enhanced | 6 + 2          | Same as Above w/ Feet Trackers for Foot Rotation                                 |
+| Enhanced+| 8 + 0          | Full Trackers instead of Extensions, Which Can be Used for Either Feet or Elbows |
+| Dance    | 8 + 2          | Same as Enhanced w/ Elbow Tracking                                               |
 
 #### Tracker Specifications
 - Compatible with SteamVR, VMC Protocol, and OSC for Tracking
