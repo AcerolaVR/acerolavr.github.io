@@ -65,9 +65,17 @@ What's not Included?
 - Micro-USB Data Cable Not Included
 
 ### Project Repo
-This design is [open-source](github.com/AcerolaVR/AceStacks), feel free to check out the documentation, view attribution, build your own, or make modifications to this design with attribution
+This design is [open-source](https://github.com/AcerolaVR/AceStacksV2), feel free to check out the documentation, view attribution, build your own, or make modifications to this design with attribution
 
-#### Changelist
+## List of Attributions for Work Used
+- **SlimeVR Firmware**: [GitHub - SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)
+- **Loud/BMI270 Main Branch**: [GitHub - l0ud/SlimeVR-Tracker-ESP-BMI270/tree/main](https://github.com/l0ud/SlimeVR-Tracker-ESP-BMI270/tree/main)
+- **Strap Buckles from mike-d3v**: [GitHub - mike-d3v/slime-stuff](https://github.com/mike-d3v/slime-stuff)
+- **GoPro QR Buckle from TactTM**: [Thingiverse - GoPro QR Buckle](https://www.thingiverse.com/thing:4541823/)
+- **ErrorBox**: For the initial idea to stack the D1 Mini
+
+
+## Changelist
 v2
 - Hybrid SMD Design -> Better Reliability and Durability
 - BMI160 -> BMI270 Sensors
