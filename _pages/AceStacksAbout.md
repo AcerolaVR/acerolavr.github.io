@@ -8,12 +8,9 @@ classes: wide
 last_modified_at: 2024-07-18T11:59:26-04:00
 # toc: true
 ---
-<!-- <span style="color:green">**Current Lead Times: In Stock! Allow 1 week for assembly, calibration, and testing.**</span> -->
+<span style="color:red">**Current Lead Times: Out of Stock! Allow at least 2-3 weeks for restocking.**</span>
+<!-- <span style="color:green">**ACESTACKS V2 IS IN STOCK! Turnaround is quick (1 week to ship out) and I should be able to send trackers in short order**</span> -->
 <!-- <span style="color:yellow">**Current Lead Times: Parts on order, Allow 1-2 weeks for restock + assembly.**</span> -->
-<!-- <span style="color:red">**Current Lead Times: Out of Stock! Allow at least 2-3 weeks for restocking.**</span> -->
-<!-- <span style="color:red">**Current Lead Times: Out of Stock! Restock is normally 2-3 weeks but batteries are out of stock EVERYWHERE, Lead time are uncertain.**</span> -->
-
-<span style="color:green">**ACESTACKS V2 IS IN STOCK! Turnaround is quick (1 week to ship out) and I should be able to send trackers in short order**</span>
 
 [Buy Acestacks Now](https://ko-fi.com/s/f68f3c7944){: .btn .btn--success .btn--large}
 
