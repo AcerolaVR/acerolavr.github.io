@@ -9,11 +9,10 @@ author_profile: true
 toc: true
 toc_sticky: true
 ---
-This is a setup and usage guide for AceStacks v1.x Trackers. You can find the purchase link for the trackers below.
+**These Docs are applicable to Acestacks v2! v1 is defunct; if you need to access them or have any questions, message me @ "acerola." on Discord if you need any assistance.**
 
 [Buy Acestacks Now](https://ko-fi.com/s/f68f3c7944){: .btn .btn--success .btn--large}
 
-**This section will need minor updates for Acestacks v2! The quickstart should still work fine. Message me @ "acerola." on Discord if you need any assistance.**
 
 # Quickstart Guide
 1. Watch the [AceStacks Video Overview](https://youtu.be/jQLkWUqJBMk) to familiarize yourself with the tracker design
@@ -28,7 +27,6 @@ This is a setup and usage guide for AceStacks v1.x Trackers. You can find the pu
    1. [Video Setup Guide: SlimeVR Set Up Guide (Part 2): Setting Up!](https://www.youtube.com/watch?v=JrHmNcckpuE)
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JrHmNcckpuE?si=ofR9sMih33G13Hap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
    - The data cable for connecting the trackers to your server is the TOP MICRO USB port, the bottom USB C port is only for charging. use the top Micro USB for port this step.
-   - If you have Acestacks V1, refer to [these extra safety steps](#acestacks-v1-extra-steps)
 
 1. Follow the USB Connection Tolerances section if you’re having trouble connecting the trackers to your computer
 2. Take note of the [Battery Safety Tips](#battery-safety) to prevent damage to the tracker
@@ -37,13 +35,6 @@ This is a setup and usage guide for AceStacks v1.x Trackers. You can find the pu
    - [ZRock35's Calibration Video](https://www.youtube.com/watch?v=SYqfQdVseF4)
    - [Spazznyans SlimeVR infographics](https://imgur.com/a/0jSuwrz)
 5.  SlimeVR hosts official Calibrate and Chat events every Friday @ 7PM EST, which is the best place to get a good calibration done and meet fellow SlimeVR users. 
-
-## Acestacks v1 Extra Steps
-1. [0:22](https://youtu.be/JrHmNcckpuE?t=22), if using AceStacks v1, use these steps instead
-   1. Leave the tracker OFF and connect a micro USB cable to the top port, you should hear the windows connect sound
-   2. Connect the tracker until you see it pop up in the server
-   3. DISCONNECT the tracker and then power it on, it should reappear in the server list, meaning that it is properly configured for your network
-   4. Repeat for each tracker
 
 ## VRChat Quirks
 The Inverse Kinematics for VRChat is lacking 
@@ -65,8 +56,6 @@ Acestacks has two different USB ports
    - This port will be used to initially load in your Wi-Fi credentials when you are first setting up the trackers
    - This port is also used to access the serial console for debugging, and to flash new firmware for updates
 
-**Placeholder for Images**
-
 ## Battery Safety
 AceStacks uses 16340 Li-Ion cells, that can be charged using the built in USB C port on the bottom of the tracker or externally using an appropriate Li-Ion Charger.
 
@@ -75,13 +64,7 @@ AceStacks uses 16340 Li-Ion cells, that can be charged using the built in USB C 
 {: .notice--danger}
 **If replacing the battery**, such as to place fresh ones in or if one fell out, make sure to place the battery polarity correctly; The battery has a flat negative pole, and a button top positive pole
 - Follow the battery holder markings for + and -
-- The negative pole should be closer to the side with the data and charging port, and the positive side should be on the opposite side. <span style="color:red">**Placing the battery in the wrong polarity and turning on the tracker will damage the tracker**</span>
-
-#### Acestacks V1 IMPORTANT INFO
-
-{: .notice--danger}
-If you have AceStacks V1, the trackers cannot be charged while they are on, **MAKE SURE THE TRACKERS ARE OFF BEFORE CHARGING THEM** Leaving the trackers on and connected via USB backfeeds 5V into the battery, which can lead to <span style="color:red">**damaged batteries and potential fires**</span>
-   - V1.1+ has battery protection diodes, so it is safe to have the tracker plugged in while it is on
+- The positive pole should be closer to the side with the data and charging port, and the negative pole should be on the opposite side. <span style="color:red">**Placing the battery in the wrong polarity and turning on the tracker will damage the tracker**</span>
 
 
 ## USB Connection Tolerances
@@ -113,11 +96,11 @@ The firmware on Slime Trackers is regularly updated with new features. Flashing 
 
 The preferred way to flash SlimeVR trackers is using Butterscotch's web configuration tool. [You can find the tool here.](https://slimevr-firmware.bscotch.ca/)
 
-[Preconfigured v0.4.0 firmware for Acestacks](https://slimevr-firmware.bscotch.ca/?config=eyJib2FyZCI6eyJ0eXBlIjoiQk9BUkRfV0VNT1NEMU1JTkkiLCJwaW5zIjp7ImltdVNEQSI6IkQyIiwiaW11U0NMIjoiRDEiLCJsZWQiOiIyIn0sImVuYWJsZUxlZCI6dHJ1ZX0sImltdXMiOlt7InR5cGUiOiJJTVVfQk1JMTYwIiwiaW11SU5UIjoiRDUiLCJlbmFibGVkIjp0cnVlLCJyb3RhdGlvbiI6IjI3MCJ9LHsiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6IklNVV9CTUkxNjAiLCJyb3RhdGlvbiI6MH1dLCJiYXR0ZXJ5Ijp7InR5cGUiOiJCQVRfRVhURVJOQUwiLCJyZXNpc3RhbmNlIjoxODAsInBpbiI6IkEwIn0sInZlcnNpb24iOiJTbGltZVZSL3YwLjQuMCJ9), just add your Wi-Fi credentials
-![Standard firmware configuration](../assets/images/firmware.png)
+[Preconfigured sfusion-mbe firmware for Acestacks (Normal, GoPro Cases)](https://slimevr-firmware.bscotch.ca/?config=eyJyZWxlYXNlIjoia291bm9jb20vc2Z1c2lvbi10dW5lZC1tYmUiLCJib2FyZCI6eyJ0eXBlIjoiQk9BUkRfV0VNT1NEMU1JTkkiLCJwaW5zIjp7ImltdVNEQSI6IkQyIiwiaW11U0NMIjoiRDEiLCJsZWQiOiIyIn0sImxlZEludmVydGVkIjp0cnVlLCJlbmFibGVMZWQiOnRydWV9LCJpbXVzIjpbeyJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiSU1VX0JNSTI3MCIsInJvdGF0aW9uIjoiMTgwIiwiaW11SU5UIjoiRDUifSx7ImVuYWJsZWQiOnRydWUsInR5cGUiOiJJTVVfQk1JMjcwIiwicm90YXRpb24iOiI5MCIsImltdUlOVCI6IkQ2In1dLCJiYXR0ZXJ5Ijp7InR5cGUiOiJCQVRfRVhURVJOQUwiLCJyZXNpc3RhbmNlIjoxODAsInIxIjoxMDAsInIyIjoyMjAsInBpbiI6IkEwIn0sInN3YXBBZGRyZXNzZXMiOmZhbHNlLCJkZWJ1ZyI6eyJ1c2U2QXhpcyI6dHJ1ZSwib3B0aW1pemVVcGRhdGVzIjp0cnVlLCJjb21wbGlhbmNlTW9kZSI6dHJ1ZSwiYm1pMTYwVXNlVGVtcGNhbCI6dHJ1ZSwiYm1pMTYwVGVtcGNhbERlYnVnIjpmYWxzZSwiYm1pMTYwVXNlU2Vuc2NhbCI6dHJ1ZX19), just add your Wi-Fi credentials
 
-[Preconfigured v0.4.0 firmware for Acestacks THIGH W/ GARTER STRAP](https://slimevr-firmware.bscotch.ca/?config=eyJib2FyZCI6eyJ0eXBlIjoiQk9BUkRfV0VNT1NEMU1JTkkiLCJwaW5zIjp7ImltdVNEQSI6IkQyIiwiaW11U0NMIjoiRDEiLCJsZWQiOiIyIn0sImVuYWJsZUxlZCI6dHJ1ZX0sImltdXMiOlt7InR5cGUiOiJJTVVfQk1JMTYwIiwiaW11SU5UIjoiRDUiLCJlbmFibGVkIjp0cnVlLCJyb3RhdGlvbiI6IjI3MCJ9LHsiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6IklNVV9CTUkxNjAiLCJyb3RhdGlvbiI6MH1dLCJiYXR0ZXJ5Ijp7InR5cGUiOiJCQVRfRVhURVJOQUwiLCJyZXNpc3RhbmNlIjoxODAsInBpbiI6IkEwIn0sInZlcnNpb24iOiJTbGltZVZSL3YwLjQuMCJ9), just add your Wi-Fi credentials
-![Firmware configuration for THIGH W/ GARTER STRAPS](../assets/images/firmware2.png)
+[Preconfigured sfusion-mbe firmware for Acestacks W/ EXTENSIONS (The Ankle + Foot Trackers)](https://slimevr.shinebright.dev/?config=eyJ2ZXJzaW9uIjoiZnVycnljb2Rpbmcvc2Z1c2lvbi10dW5lZC1tYmUtZGVjaW1hdGlvbiIsImJvYXJkIjp7InR5cGUiOiJCT0FSRF9XRU1PU0QxTUlOSSIsInBpbnMiOnsiaW11U0RBIjoiRDIiLCJpbXVTQ0wiOiJEMSIsImxlZCI6IjIifSwibGVkSW52ZXJ0ZWQiOnRydWUsImVuYWJsZUxlZCI6dHJ1ZSwiT25PZmZCdXR0b24iOjB9LCJpbXVzIjpbeyJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiSU1VX0JNSTI3MCIsInJvdGF0aW9uIjoiMTgwIiwiaW11SU5UIjoiRDUifSx7ImVuYWJsZWQiOnRydWUsInR5cGUiOiJJTVVfQk1JMjcwIiwicm90YXRpb24iOiI5MCIsImltdUlOVCI6IkQ2In1dLCJiYXR0ZXJ5Ijp7InR5cGUiOiJCQVRfRVhURVJOQUwiLCJyZXNpc3RhbmNlIjoxODAsInIxIjoxMDAsInIyIjoyMjAsInBpbiI6IkEwIn0sInN3YXBBZGRyZXNzZXMiOmZhbHNlfQ), just add your Wi-Fi credentials
+
+[Preconfigured sfusion-mbe firmware for Acestacks THIGH W/ GARTER STRAP](https://slimevr-firmware.bscotch.ca/?config=eyJyZWxlYXNlIjoia291bm9jb20vc2Z1c2lvbi10dW5lZC1tYmUiLCJib2FyZCI6eyJ0eXBlIjoiQk9BUkRfV0VNT1NEMU1JTkkiLCJwaW5zIjp7ImltdVNEQSI6IkQyIiwiaW11U0NMIjoiRDEiLCJsZWQiOiIyIn0sImxlZEludmVydGVkIjp0cnVlLCJlbmFibGVMZWQiOnRydWV9LCJpbXVzIjpbeyJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiSU1VX0JNSTI3MCIsInJvdGF0aW9uIjoiMCIsImltdUlOVCI6IkQ1In0seyJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiSU1VX0JNSTI3MCIsInJvdGF0aW9uIjoiOTAiLCJpbXVJTlQiOiJENiJ9XSwiYmF0dGVyeSI6eyJ0eXBlIjoiQkFUX0VYVEVSTkFMIiwicmVzaXN0YW5jZSI6MTgwLCJyMSI6MTAwLCJyMiI6MjIwLCJwaW4iOiJBMCJ9LCJzd2FwQWRkcmVzc2VzIjpmYWxzZSwiZGVidWciOnsidXNlNkF4aXMiOnRydWUsIm9wdGltaXplVXBkYXRlcyI6dHJ1ZSwiY29tcGxpYW5jZU1vZGUiOnRydWUsImJtaTE2MFVzZVRlbXBjYWwiOnRydWUsImJtaTE2MFRlbXBjYWxEZWJ1ZyI6ZmFsc2UsImJtaTE2MFVzZVNlbnNjYWwiOnRydWV9fQ), just add your Wi-Fi credentials
 
 # FAQ
 1. You will not be able to use Autobone if you have programs such as OVR Advanced Settings open, since the playspace shifting will interfere with the autobone/automatic proportions. Make sure to disable these tools if you're having trouble.
